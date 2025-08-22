@@ -1,4 +1,5 @@
 # ESG Risk Dashboard – Inspired by Deloitte Strategy & Risk Advisory
+
 ## 📖 Overview  
 This project explores the **intersection of climate impact and sustainability performance** through an interactive Tableau dashboard.  
 By visualizing **CO₂ emissions, GDP per capita, and ESG scores** across countries, the dashboard provides actionable insights that can guide **governments, businesses, investors, and researchers** toward data-driven climate strategies.  
@@ -24,16 +25,37 @@ This dashboard consolidates global datasets into **clear, interactive visualizat
 ---
 
 ## 📊 Key Insights  
-- **Top 5 Polluters (per capita):** Bahrain, Kuwait, Palau, Qatar, UAE:contentReference[oaicite:0]{index=0}  
-- **Total Global CO₂:** 11,955 Mt:contentReference[oaicite:1]{index=1}  
-- **Average ESG Score:** 1,594:contentReference[oaicite:2]{index=2}  
-- **GDP ↔ CO₂ correlation**: High-income nations emit significantly more:contentReference[oaicite:3]{index=3}  
-- **Trend:** Emissions rising steadily since the 1990s:contentReference[oaicite:4]{index=4}  
+- **Top 5 Polluters (per capita):** Bahrain, Kuwait, Palau, Qatar, UAE  
+- **Total Global CO₂:** 11,955 Mt  
+- **Average ESG Score:** 1,594  
+- **GDP ↔ CO₂ correlation:** High-income nations emit significantly more  
+- **Trend:** Emissions rising steadily since the 1990s  
 
 ---
 
 ## 🛠 Tools Used  
+- **Python** → data cleaning & preprocessing  
 - **Tableau** → interactive dashboards  
-- **Excel/CSV** → data preprocessing  
+- **Excel/CSV** → dataset handling  
 - **GitHub** → version control & sharing  
 - **LinkedIn** → professional portfolio  
+
+---
+
+## 📑 Dashboard Access  
+- 📂 [Download Tableau Workbook (.twbx)](https://github.com/joshidiksha660/esg-risk-dashboard/blob/main/dashboards/ESG%20DASHBOARD%20(5).twbx)  
+- 📄 [View Dashboard PDF Export](dashboards/ESG_CO2_Dashboard.pdf)  
+
+---
+
+## 📷 Dashboard Snapshot  
+![Dashboard Preview](dashboards/screenshots/main_dashboard.png)  
+*(Replace with your actual screenshot filename in `/dashboards/screenshots/`)*  
+
+---
+
+## 👩‍💻 Author  
+**Diksha Joshi**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/diksha-joshi-58b8ba304)  
+- 📂 [GitHub](https://github.com/joshidiksha660)  
+- 📧 joshidiksha660@gmail.com
